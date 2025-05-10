@@ -1,0 +1,8 @@
+a=input('enter the first number: ')
+a=float(a)
+b=input('enter the second number: ')
+b=float(b)
+print('addition: ',a+b)
+print('subtraction: ',a-b)
+print('Multiplication: ',a*b)
+print('division: ',a/b)
